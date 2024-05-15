@@ -1,5 +1,5 @@
 # HR-data
-# HR DATA ANALYSIS - SQL SERVER 2022 / POWER BI
+# HR DATA ANALYSIS - SQL SERVER 2024 V20.1 / POWER BI
 This project thoroughly explores data analysis through SQL and Power BI to reveal key human resource insights that can significantly benefit the company. 
 It includes visually appealing dashboards displaying essential HR metrics such as employee turnover, diversity, 
 recruitment effectiveness, and performance evaluations, aiding HR professionals in making 
