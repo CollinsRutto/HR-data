@@ -20,6 +20,8 @@ Exploratory Data Analysis
 # Data Visualization:
 https://github.com/CollinsRutto/HR-data/blob/2df60bbc0ba5bc9acb93ecf097ad19f738cb49f5/HR%20Report.png
 
+https://github.com/CollinsRutto/HR-data/blob/0aaaa9f478430021efaa3fbfe945271daeb5dc65/HR%20Report%202.png
+
 ## Exploratory Data Analysis
 ### Questions:
 1)	What's the age distribution in the company?
