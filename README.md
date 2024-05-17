@@ -18,7 +18,7 @@ Data Visualization:
 Exploratory Data Analysis
 
 # Data Visualization:
-
+https://github.com/CollinsRutto/HR-data/blob/2d5479524a592b429c0c44d34a9337fc67ea8126/HR%20Report.png
 
 ## Exploratory Data Analysis
 ### Questions:
