@@ -40,14 +40,14 @@ https://github.com/CollinsRutto/HR-data/blob/0aaaa9f478430021efaa3fbfe945271daeb
 ### Findings:
 1)	There are more male employees than female or non-conforming employees.
 2)	The genders are fairly evenly distributed across departments. There are slightly more male employees overall.
-3)	Employees 21-30 years old are the fewest in the company. Most employees are 31-50 years old. Surprisingly, the age group 50+ have the most employees in the company.
+3)	Employees 50 years old are the fewest in the company. Most employees are 31-40 years old. Surprisingly, the age group 50+ have the most employees in the company.
 4)	Caucasian employees are the majority in the company, followed by mixed race, black, Asian, Hispanic, and native Americans.
-5)	The average length of employment is 7 years.
-6)	Auditing has the highest turnover rate, followed by Legal, Research & Development and Training. Business Development & Marketing have the lowest turnover rates.
+5)	The average length of employment is 8 years.
+6)	Engineering has the highest turnover rate, followed by Accounting, Training , Sales & Development. legal and audting have the lowest turnover rates.
 7)	Employees tend to stay with the company for 6-8 years. Tenure is quite evenly distributed across departments.
 8)	About 25% of employees work remotely.
-9)	Most employees are in Ohio (14,788) followed distantly by Pennsylvania (930) and Illinois (730), Indiana (572), Michigan (569), Kentucky (375) and Wisconsin (321).
-10)	There are 182 job titles in the company, with Research Assistant II taking most of the employees (634) and Assistant Professor, Marketing Manager, Office Assistant IV, Associate Professor and VP of Training and Development taking the just 1 employee each.
+9)	Most employees are in Ohio (17,330) followed distantly by Pennsylvania (1077) and Illinois (838), Indiana (677), Michigan (654), Kentucky (433) and Wisconsin (375).
+10)	There are 184 job titles in the company, with Research Assistant II taking most of the employees (732) and Assistant Professor, Marketing Manager, Office Assistant IV, Associate Professor and VP of Training and Development taking the just 1 employee each.
 11)	Employee hire counts have increased over the years
 
 
