@@ -18,7 +18,7 @@ Data Visualization:
 Exploratory Data Analysis
 
 # Data Visualization:
-HR Report.png
+
 
 ## Exploratory Data Analysis
 ### Questions:
